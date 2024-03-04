@@ -1,0 +1,14 @@
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\Microsoft C# Certification Projects\simulatingDiceRoll\bin\Debug\net8.0\simulatingDiceRoll.exe
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\Microsoft C# Certification Projects\simulatingDiceRoll\bin\Debug\net8.0\simulatingDiceRoll.deps.json
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\Microsoft C# Certification Projects\simulatingDiceRoll\bin\Debug\net8.0\simulatingDiceRoll.runtimeconfig.json
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\Microsoft C# Certification Projects\simulatingDiceRoll\bin\Debug\net8.0\simulatingDiceRoll.dll
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\Microsoft C# Certification Projects\simulatingDiceRoll\bin\Debug\net8.0\simulatingDiceRoll.pdb
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\Microsoft C# Certification Projects\simulatingDiceRoll\obj\Debug\net8.0\simulatingDiceRoll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\Microsoft C# Certification Projects\simulatingDiceRoll\obj\Debug\net8.0\simulatingDiceRoll.AssemblyInfoInputs.cache
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\Microsoft C# Certification Projects\simulatingDiceRoll\obj\Debug\net8.0\simulatingDiceRoll.AssemblyInfo.cs
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\Microsoft C# Certification Projects\simulatingDiceRoll\obj\Debug\net8.0\simulatingDiceRoll.csproj.CoreCompileInputs.cache
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\Microsoft C# Certification Projects\simulatingDiceRoll\obj\Debug\net8.0\simulatingDiceRoll.dll
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\Microsoft C# Certification Projects\simulatingDiceRoll\obj\Debug\net8.0\refint\simulatingDiceRoll.dll
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\Microsoft C# Certification Projects\simulatingDiceRoll\obj\Debug\net8.0\simulatingDiceRoll.pdb
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\Microsoft C# Certification Projects\simulatingDiceRoll\obj\Debug\net8.0\simulatingDiceRoll.genruntimeconfig.cache
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\Microsoft C# Certification Projects\simulatingDiceRoll\obj\Debug\net8.0\ref\simulatingDiceRoll.dll
