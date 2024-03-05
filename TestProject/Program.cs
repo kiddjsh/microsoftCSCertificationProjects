@@ -12,4 +12,4 @@
         dotnet run
 ***/
 
-Console.WriteLine("Hello, C#!")
+Console.WriteLine("Hello, C#!");

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\KidderJoshua\\Documents\\Visual Studio Code\\Repositories\\microsoftCSCertificationProjects\\TestProject\\TestProject.csproj": {}
+    "C:\\Users\\KidderJoshua\\Documents\\Visual Studio Code\\Repositories\\microsoftCSCertificationProjects\\randomDiceRoll\\randomDiceRoll.csproj": {}
   },
   "projects": {
-    "C:\\Users\\KidderJoshua\\Documents\\Visual Studio Code\\Repositories\\microsoftCSCertificationProjects\\TestProject\\TestProject.csproj": {
+    "C:\\Users\\KidderJoshua\\Documents\\Visual Studio Code\\Repositories\\microsoftCSCertificationProjects\\randomDiceRoll\\randomDiceRoll.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\KidderJoshua\\Documents\\Visual Studio Code\\Repositories\\microsoftCSCertificationProjects\\TestProject\\TestProject.csproj",
-        "projectName": "TestProject",
-        "projectPath": "C:\\Users\\KidderJoshua\\Documents\\Visual Studio Code\\Repositories\\microsoftCSCertificationProjects\\TestProject\\TestProject.csproj",
+        "projectUniqueName": "C:\\Users\\KidderJoshua\\Documents\\Visual Studio Code\\Repositories\\microsoftCSCertificationProjects\\randomDiceRoll\\randomDiceRoll.csproj",
+        "projectName": "randomDiceRoll",
+        "projectPath": "C:\\Users\\KidderJoshua\\Documents\\Visual Studio Code\\Repositories\\microsoftCSCertificationProjects\\randomDiceRoll\\randomDiceRoll.csproj",
         "packagesPath": "C:\\Users\\KidderJoshua\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\KidderJoshua\\Documents\\Visual Studio Code\\Repositories\\microsoftCSCertificationProjects\\TestProject\\obj\\",
+        "outputPath": "C:\\Users\\KidderJoshua\\Documents\\Visual Studio Code\\Repositories\\microsoftCSCertificationProjects\\randomDiceRoll\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
