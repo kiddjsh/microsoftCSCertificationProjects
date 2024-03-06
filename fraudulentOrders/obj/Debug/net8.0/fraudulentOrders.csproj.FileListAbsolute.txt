@@ -1,0 +1,15 @@
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\fraudulentOrders\bin\Debug\net8.0\fraudulentOrders.exe
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\fraudulentOrders\bin\Debug\net8.0\fraudulentOrders.deps.json
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\fraudulentOrders\bin\Debug\net8.0\fraudulentOrders.runtimeconfig.json
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\fraudulentOrders\bin\Debug\net8.0\fraudulentOrders.dll
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\fraudulentOrders\bin\Debug\net8.0\fraudulentOrders.pdb
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\fraudulentOrders\obj\Debug\net8.0\fraudulentOrders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\fraudulentOrders\obj\Debug\net8.0\fraudulentOrders.AssemblyInfoInputs.cache
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\fraudulentOrders\obj\Debug\net8.0\fraudulentOrders.AssemblyInfo.cs
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\fraudulentOrders\obj\Debug\net8.0\fraudulentOrders.csproj.CoreCompileInputs.cache
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\fraudulentOrders\obj\Debug\net8.0\fraudulentOrders.sourcelink.json
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\fraudulentOrders\obj\Debug\net8.0\fraudulentOrders.dll
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\fraudulentOrders\obj\Debug\net8.0\refint\fraudulentOrders.dll
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\fraudulentOrders\obj\Debug\net8.0\fraudulentOrders.pdb
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\fraudulentOrders\obj\Debug\net8.0\fraudulentOrders.genruntimeconfig.cache
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\fraudulentOrders\obj\Debug\net8.0\ref\fraudulentOrders.dll

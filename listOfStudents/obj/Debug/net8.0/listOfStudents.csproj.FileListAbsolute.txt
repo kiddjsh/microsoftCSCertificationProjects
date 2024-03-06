@@ -1,0 +1,15 @@
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\listOfStudents\bin\Debug\net8.0\listOfStudents.exe
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\listOfStudents\bin\Debug\net8.0\listOfStudents.deps.json
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\listOfStudents\bin\Debug\net8.0\listOfStudents.runtimeconfig.json
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\listOfStudents\bin\Debug\net8.0\listOfStudents.dll
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\listOfStudents\bin\Debug\net8.0\listOfStudents.pdb
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\listOfStudents\obj\Debug\net8.0\listOfStudents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\listOfStudents\obj\Debug\net8.0\listOfStudents.AssemblyInfoInputs.cache
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\listOfStudents\obj\Debug\net8.0\listOfStudents.AssemblyInfo.cs
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\listOfStudents\obj\Debug\net8.0\listOfStudents.csproj.CoreCompileInputs.cache
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\listOfStudents\obj\Debug\net8.0\listOfStudents.sourcelink.json
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\listOfStudents\obj\Debug\net8.0\listOfStudents.dll
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\listOfStudents\obj\Debug\net8.0\refint\listOfStudents.dll
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\listOfStudents\obj\Debug\net8.0\listOfStudents.pdb
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\listOfStudents\obj\Debug\net8.0\listOfStudents.genruntimeconfig.cache
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\listOfStudents\obj\Debug\net8.0\ref\listOfStudents.dll
