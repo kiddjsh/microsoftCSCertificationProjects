@@ -1,0 +1,15 @@
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\inventoryProductBins\bin\Debug\net8.0\inventoryProductBins.exe
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\inventoryProductBins\bin\Debug\net8.0\inventoryProductBins.deps.json
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\inventoryProductBins\bin\Debug\net8.0\inventoryProductBins.runtimeconfig.json
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\inventoryProductBins\bin\Debug\net8.0\inventoryProductBins.dll
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\inventoryProductBins\bin\Debug\net8.0\inventoryProductBins.pdb
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\inventoryProductBins\obj\Debug\net8.0\inventoryProductBins.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\inventoryProductBins\obj\Debug\net8.0\inventoryProductBins.AssemblyInfoInputs.cache
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\inventoryProductBins\obj\Debug\net8.0\inventoryProductBins.AssemblyInfo.cs
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\inventoryProductBins\obj\Debug\net8.0\inventoryProductBins.csproj.CoreCompileInputs.cache
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\inventoryProductBins\obj\Debug\net8.0\inventoryProductBins.sourcelink.json
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\inventoryProductBins\obj\Debug\net8.0\inventoryProductBins.dll
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\inventoryProductBins\obj\Debug\net8.0\refint\inventoryProductBins.dll
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\inventoryProductBins\obj\Debug\net8.0\inventoryProductBins.pdb
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\inventoryProductBins\obj\Debug\net8.0\inventoryProductBins.genruntimeconfig.cache
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\inventoryProductBins\obj\Debug\net8.0\ref\inventoryProductBins.dll

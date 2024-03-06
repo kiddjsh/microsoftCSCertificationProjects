@@ -1,0 +1,15 @@
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\fraudulentOrderChallenge\bin\Debug\net8.0\fraudulentOrderChallenge.exe
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\fraudulentOrderChallenge\bin\Debug\net8.0\fraudulentOrderChallenge.deps.json
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\fraudulentOrderChallenge\bin\Debug\net8.0\fraudulentOrderChallenge.runtimeconfig.json
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\fraudulentOrderChallenge\bin\Debug\net8.0\fraudulentOrderChallenge.dll
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\fraudulentOrderChallenge\bin\Debug\net8.0\fraudulentOrderChallenge.pdb
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\fraudulentOrderChallenge\obj\Debug\net8.0\fraudulentOrderChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\fraudulentOrderChallenge\obj\Debug\net8.0\fraudulentOrderChallenge.AssemblyInfoInputs.cache
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\fraudulentOrderChallenge\obj\Debug\net8.0\fraudulentOrderChallenge.AssemblyInfo.cs
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\fraudulentOrderChallenge\obj\Debug\net8.0\fraudulentOrderChallenge.csproj.CoreCompileInputs.cache
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\fraudulentOrderChallenge\obj\Debug\net8.0\fraudulentOrderChallenge.sourcelink.json
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\fraudulentOrderChallenge\obj\Debug\net8.0\fraudulentOrderChallenge.dll
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\fraudulentOrderChallenge\obj\Debug\net8.0\refint\fraudulentOrderChallenge.dll
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\fraudulentOrderChallenge\obj\Debug\net8.0\fraudulentOrderChallenge.pdb
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\fraudulentOrderChallenge\obj\Debug\net8.0\fraudulentOrderChallenge.genruntimeconfig.cache
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\fraudulentOrderChallenge\obj\Debug\net8.0\ref\fraudulentOrderChallenge.dll

@@ -1,0 +1,15 @@
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\inventoryReportingProject\bin\Debug\net8.0\inventoryReportingProject.exe
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\inventoryReportingProject\bin\Debug\net8.0\inventoryReportingProject.deps.json
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\inventoryReportingProject\bin\Debug\net8.0\inventoryReportingProject.runtimeconfig.json
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\inventoryReportingProject\bin\Debug\net8.0\inventoryReportingProject.dll
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\inventoryReportingProject\bin\Debug\net8.0\inventoryReportingProject.pdb
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\inventoryReportingProject\obj\Debug\net8.0\inventoryReportingProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\inventoryReportingProject\obj\Debug\net8.0\inventoryReportingProject.AssemblyInfoInputs.cache
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\inventoryReportingProject\obj\Debug\net8.0\inventoryReportingProject.AssemblyInfo.cs
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\inventoryReportingProject\obj\Debug\net8.0\inventoryReportingProject.csproj.CoreCompileInputs.cache
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\inventoryReportingProject\obj\Debug\net8.0\inventoryReportingProject.sourcelink.json
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\inventoryReportingProject\obj\Debug\net8.0\inventoryReportingProject.dll
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\inventoryReportingProject\obj\Debug\net8.0\refint\inventoryReportingProject.dll
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\inventoryReportingProject\obj\Debug\net8.0\inventoryReportingProject.pdb
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\inventoryReportingProject\obj\Debug\net8.0\inventoryReportingProject.genruntimeconfig.cache
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\inventoryReportingProject\obj\Debug\net8.0\ref\inventoryReportingProject.dll

@@ -1,0 +1,15 @@
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\nestedChallengeProject\bin\Debug\net8.0\nestedChallengeProject.exe
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\nestedChallengeProject\bin\Debug\net8.0\nestedChallengeProject.deps.json
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\nestedChallengeProject\bin\Debug\net8.0\nestedChallengeProject.runtimeconfig.json
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\nestedChallengeProject\bin\Debug\net8.0\nestedChallengeProject.dll
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\nestedChallengeProject\bin\Debug\net8.0\nestedChallengeProject.pdb
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\nestedChallengeProject\obj\Debug\net8.0\nestedChallengeProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\nestedChallengeProject\obj\Debug\net8.0\nestedChallengeProject.AssemblyInfoInputs.cache
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\nestedChallengeProject\obj\Debug\net8.0\nestedChallengeProject.AssemblyInfo.cs
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\nestedChallengeProject\obj\Debug\net8.0\nestedChallengeProject.csproj.CoreCompileInputs.cache
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\nestedChallengeProject\obj\Debug\net8.0\nestedChallengeProject.sourcelink.json
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\nestedChallengeProject\obj\Debug\net8.0\nestedChallengeProject.dll
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\nestedChallengeProject\obj\Debug\net8.0\refint\nestedChallengeProject.dll
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\nestedChallengeProject\obj\Debug\net8.0\nestedChallengeProject.pdb
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\nestedChallengeProject\obj\Debug\net8.0\nestedChallengeProject.genruntimeconfig.cache
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\nestedChallengeProject\obj\Debug\net8.0\ref\nestedChallengeProject.dll
