@@ -1,0 +1,15 @@
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\flipCoinChallenge\bin\Debug\net8.0\flipCoinChallenge.exe
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\flipCoinChallenge\bin\Debug\net8.0\flipCoinChallenge.deps.json
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\flipCoinChallenge\bin\Debug\net8.0\flipCoinChallenge.runtimeconfig.json
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\flipCoinChallenge\bin\Debug\net8.0\flipCoinChallenge.dll
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\flipCoinChallenge\bin\Debug\net8.0\flipCoinChallenge.pdb
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\flipCoinChallenge\obj\Debug\net8.0\flipCoinChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\flipCoinChallenge\obj\Debug\net8.0\flipCoinChallenge.AssemblyInfoInputs.cache
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\flipCoinChallenge\obj\Debug\net8.0\flipCoinChallenge.AssemblyInfo.cs
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\flipCoinChallenge\obj\Debug\net8.0\flipCoinChallenge.csproj.CoreCompileInputs.cache
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\flipCoinChallenge\obj\Debug\net8.0\flipCoinChallenge.sourcelink.json
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\flipCoinChallenge\obj\Debug\net8.0\flipCoinChallenge.dll
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\flipCoinChallenge\obj\Debug\net8.0\refint\flipCoinChallenge.dll
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\flipCoinChallenge\obj\Debug\net8.0\flipCoinChallenge.pdb
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\flipCoinChallenge\obj\Debug\net8.0\flipCoinChallenge.genruntimeconfig.cache
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\flipCoinChallenge\obj\Debug\net8.0\ref\flipCoinChallenge.dll
