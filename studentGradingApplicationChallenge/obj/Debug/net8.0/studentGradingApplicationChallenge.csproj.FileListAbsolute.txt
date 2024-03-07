@@ -1,0 +1,5 @@
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\studentGradingApplicationChallenge\obj\Debug\net8.0\studentGradingApplicationChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\studentGradingApplicationChallenge\obj\Debug\net8.0\studentGradingApplicationChallenge.AssemblyInfoInputs.cache
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\studentGradingApplicationChallenge\obj\Debug\net8.0\studentGradingApplicationChallenge.AssemblyInfo.cs
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\studentGradingApplicationChallenge\obj\Debug\net8.0\studentGradingApplicationChallenge.csproj.CoreCompileInputs.cache
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\studentGradingApplicationChallenge\obj\Debug\net8.0\studentGradingApplicationChallenge.sourcelink.json
