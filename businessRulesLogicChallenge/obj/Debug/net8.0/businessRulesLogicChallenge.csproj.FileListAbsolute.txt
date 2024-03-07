@@ -1,0 +1,15 @@
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\businessRulesLogicChallenge\bin\Debug\net8.0\businessRulesLogicChallenge.exe
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\businessRulesLogicChallenge\bin\Debug\net8.0\businessRulesLogicChallenge.deps.json
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\businessRulesLogicChallenge\bin\Debug\net8.0\businessRulesLogicChallenge.runtimeconfig.json
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\businessRulesLogicChallenge\bin\Debug\net8.0\businessRulesLogicChallenge.dll
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\businessRulesLogicChallenge\bin\Debug\net8.0\businessRulesLogicChallenge.pdb
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\businessRulesLogicChallenge\obj\Debug\net8.0\businessRulesLogicChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\businessRulesLogicChallenge\obj\Debug\net8.0\businessRulesLogicChallenge.AssemblyInfoInputs.cache
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\businessRulesLogicChallenge\obj\Debug\net8.0\businessRulesLogicChallenge.AssemblyInfo.cs
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\businessRulesLogicChallenge\obj\Debug\net8.0\businessRulesLogicChallenge.csproj.CoreCompileInputs.cache
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\businessRulesLogicChallenge\obj\Debug\net8.0\businessRulesLogicChallenge.sourcelink.json
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\businessRulesLogicChallenge\obj\Debug\net8.0\businessRulesLogicChallenge.dll
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\businessRulesLogicChallenge\obj\Debug\net8.0\refint\businessRulesLogicChallenge.dll
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\businessRulesLogicChallenge\obj\Debug\net8.0\businessRulesLogicChallenge.pdb
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\businessRulesLogicChallenge\obj\Debug\net8.0\businessRulesLogicChallenge.genruntimeconfig.cache
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\businessRulesLogicChallenge\obj\Debug\net8.0\ref\businessRulesLogicChallenge.dll
