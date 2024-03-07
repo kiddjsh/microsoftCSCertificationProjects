@@ -1,0 +1,15 @@
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\expressionsMakeDecisions\bin\Debug\net8.0\expressionsMakeDecisions.exe
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\expressionsMakeDecisions\bin\Debug\net8.0\expressionsMakeDecisions.deps.json
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\expressionsMakeDecisions\bin\Debug\net8.0\expressionsMakeDecisions.runtimeconfig.json
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\expressionsMakeDecisions\bin\Debug\net8.0\expressionsMakeDecisions.dll
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\expressionsMakeDecisions\bin\Debug\net8.0\expressionsMakeDecisions.pdb
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\expressionsMakeDecisions\obj\Debug\net8.0\expressionsMakeDecisions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\expressionsMakeDecisions\obj\Debug\net8.0\expressionsMakeDecisions.AssemblyInfoInputs.cache
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\expressionsMakeDecisions\obj\Debug\net8.0\expressionsMakeDecisions.AssemblyInfo.cs
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\expressionsMakeDecisions\obj\Debug\net8.0\expressionsMakeDecisions.csproj.CoreCompileInputs.cache
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\expressionsMakeDecisions\obj\Debug\net8.0\expressionsMakeDecisions.sourcelink.json
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\expressionsMakeDecisions\obj\Debug\net8.0\expressionsMakeDecisions.dll
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\expressionsMakeDecisions\obj\Debug\net8.0\refint\expressionsMakeDecisions.dll
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\expressionsMakeDecisions\obj\Debug\net8.0\expressionsMakeDecisions.pdb
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\expressionsMakeDecisions\obj\Debug\net8.0\expressionsMakeDecisions.genruntimeconfig.cache
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\expressionsMakeDecisions\obj\Debug\net8.0\ref\expressionsMakeDecisions.dll
