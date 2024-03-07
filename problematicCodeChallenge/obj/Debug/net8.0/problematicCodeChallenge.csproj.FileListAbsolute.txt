@@ -1,0 +1,15 @@
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\problematicCodeChallenge\obj\Debug\net8.0\problematicCodeChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\problematicCodeChallenge\obj\Debug\net8.0\problematicCodeChallenge.AssemblyInfoInputs.cache
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\problematicCodeChallenge\obj\Debug\net8.0\problematicCodeChallenge.AssemblyInfo.cs
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\problematicCodeChallenge\obj\Debug\net8.0\problematicCodeChallenge.csproj.CoreCompileInputs.cache
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\problematicCodeChallenge\obj\Debug\net8.0\problematicCodeChallenge.sourcelink.json
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\problematicCodeChallenge\bin\Debug\net8.0\problematicCodeChallenge.exe
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\problematicCodeChallenge\bin\Debug\net8.0\problematicCodeChallenge.deps.json
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\problematicCodeChallenge\bin\Debug\net8.0\problematicCodeChallenge.runtimeconfig.json
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\problematicCodeChallenge\bin\Debug\net8.0\problematicCodeChallenge.dll
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\problematicCodeChallenge\bin\Debug\net8.0\problematicCodeChallenge.pdb
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\problematicCodeChallenge\obj\Debug\net8.0\problematicCodeChallenge.dll
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\problematicCodeChallenge\obj\Debug\net8.0\refint\problematicCodeChallenge.dll
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\problematicCodeChallenge\obj\Debug\net8.0\problematicCodeChallenge.pdb
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\problematicCodeChallenge\obj\Debug\net8.0\problematicCodeChallenge.genruntimeconfig.cache
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\problematicCodeChallenge\obj\Debug\net8.0\ref\problematicCodeChallenge.dll
