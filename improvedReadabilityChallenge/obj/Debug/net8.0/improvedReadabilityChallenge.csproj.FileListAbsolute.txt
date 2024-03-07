@@ -1,0 +1,15 @@
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\improvedReadabilityChallenge\bin\Debug\net8.0\improvedReadabilityChallenge.exe
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\improvedReadabilityChallenge\bin\Debug\net8.0\improvedReadabilityChallenge.deps.json
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\improvedReadabilityChallenge\bin\Debug\net8.0\improvedReadabilityChallenge.runtimeconfig.json
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\improvedReadabilityChallenge\bin\Debug\net8.0\improvedReadabilityChallenge.dll
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\improvedReadabilityChallenge\bin\Debug\net8.0\improvedReadabilityChallenge.pdb
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\improvedReadabilityChallenge\obj\Debug\net8.0\improvedReadabilityChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\improvedReadabilityChallenge\obj\Debug\net8.0\improvedReadabilityChallenge.AssemblyInfoInputs.cache
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\improvedReadabilityChallenge\obj\Debug\net8.0\improvedReadabilityChallenge.AssemblyInfo.cs
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\improvedReadabilityChallenge\obj\Debug\net8.0\improvedReadabilityChallenge.csproj.CoreCompileInputs.cache
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\improvedReadabilityChallenge\obj\Debug\net8.0\improvedReadabilityChallenge.sourcelink.json
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\improvedReadabilityChallenge\obj\Debug\net8.0\improvedReadabilityChallenge.dll
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\improvedReadabilityChallenge\obj\Debug\net8.0\refint\improvedReadabilityChallenge.dll
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\improvedReadabilityChallenge\obj\Debug\net8.0\improvedReadabilityChallenge.pdb
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\improvedReadabilityChallenge\obj\Debug\net8.0\improvedReadabilityChallenge.genruntimeconfig.cache
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\improvedReadabilityChallenge\obj\Debug\net8.0\ref\improvedReadabilityChallenge.dll
