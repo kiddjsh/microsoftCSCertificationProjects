@@ -112,3 +112,39 @@ Console.WriteLine(s1 != s2); // output: False
     6.If a method returns a bool, it can be used as a Boolean expression.
     7.Use the logical negation operator ! to evaluate the opposite of a given expression.
 */
+
+
+/*
+Consider how you'd apply the conditional operator ?: to a promotional discount scenario, using pseudo.
+*/
+
+<evaluate this condition> ? <if condition is true, return this value> : <if condition is false, return this value>
+
+/*
+The conditional operator ?: evaluates a Boolean expression and returns one of two results depending on whether the Boolean expression 
+evaluates to true or false. The conditional operator is commonly referred to as the ternary conditional operator.
+*/
+
+int saleAmount = 1001;
+int discount = saleAmount > 1000 ? 100 : 50;
+Console.WriteLine($"Discount: {discount}");
+
+/*
+Using the conditional operator inline:
+
+This code logic wraps the entire conditional operator statement in parentheses. The parentheses ensure that the runtime understands the 
+intent, which is to display the conditional result rather than the result of evaluating the condition (saleAmount > 1000).
+*/
+
+int saleAmount = 1001;
+// int discount = saleAmount > 1000 ? 100 : 50;
+
+Console.WriteLine($"Discount: {(saleAmount > 1000 ? 100 : 50)}");
+
+/* KEY TIPS
+
+    You can use the conditional operator to reduce the size of your code, but you should ensure that the resulting code is easily readable.
+    You can use the conditional operator when you need to return a value that's based on a binary condition. Your code will return the first 
+    option when the condition evaluates to true, and it will return the second option when the condition evaluates to false.
+*/
+
