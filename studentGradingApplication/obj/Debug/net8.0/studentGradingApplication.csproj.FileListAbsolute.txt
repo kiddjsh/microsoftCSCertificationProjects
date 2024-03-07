@@ -1,0 +1,15 @@
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\studentGradingApplication\bin\Debug\net8.0\studentGradingApplication.exe
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\studentGradingApplication\bin\Debug\net8.0\studentGradingApplication.deps.json
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\studentGradingApplication\bin\Debug\net8.0\studentGradingApplication.runtimeconfig.json
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\studentGradingApplication\bin\Debug\net8.0\studentGradingApplication.dll
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\studentGradingApplication\bin\Debug\net8.0\studentGradingApplication.pdb
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\studentGradingApplication\obj\Debug\net8.0\studentGradingApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\studentGradingApplication\obj\Debug\net8.0\studentGradingApplication.AssemblyInfoInputs.cache
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\studentGradingApplication\obj\Debug\net8.0\studentGradingApplication.AssemblyInfo.cs
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\studentGradingApplication\obj\Debug\net8.0\studentGradingApplication.csproj.CoreCompileInputs.cache
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\studentGradingApplication\obj\Debug\net8.0\studentGradingApplication.sourcelink.json
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\studentGradingApplication\obj\Debug\net8.0\studentGradingApplication.dll
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\studentGradingApplication\obj\Debug\net8.0\refint\studentGradingApplication.dll
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\studentGradingApplication\obj\Debug\net8.0\studentGradingApplication.pdb
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\studentGradingApplication\obj\Debug\net8.0\studentGradingApplication.genruntimeconfig.cache
+C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\microsoftCSCertificationProjects\studentGradingApplication\obj\Debug\net8.0\ref\studentGradingApplication.dll
