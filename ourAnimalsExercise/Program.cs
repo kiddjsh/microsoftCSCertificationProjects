@@ -59,18 +59,27 @@ for (int i = 0; i < maxPets; i++)
            animalSpecies = "cat";
            animalID = "c3";
            animalAge = "1";
-           animalPhysicalDescription = "small white female weighing about 8 pounds. litter box trained.";
-           animalPersonalityDescription = "friendly";
-           animalNickname = "Puss";
+           animalPhysicalDescription = "Balinese Cat Breed, female weighing 8 pounds, cream chocolate point medium long coat, with sapphire blue eyes. Litter box trained.";
+           animalPersonalityDescription = "Energetic, friendly, chatty personality. Enjoys playing and being the center of attention.";
+           animalNickname = "Luna";
            break;
 
        case 3:
            animalSpecies = "cat";
            animalID = "c4";
-           animalAge = "?";
-           animalPhysicalDescription = "";
-           animalPersonalityDescription = "";
-           animalNickname = "";
+           animalAge = "3";
+           animalPhysicalDescription = "Tonkinese Cat Breed, male weighing 10 pounds, champagne mink fine silky coat. Litter box trained.";
+           animalPersonalityDescription = "Warm, loving personality, that craves human attention. Enjoys playing, climbing and whizzing by at warp speed.";
+           animalNickname = "Tito";
+           break;
+
+        case 4:
+           animalSpecies = "cat";
+           animalID = "c5";
+           animalAge = "2";
+           animalPhysicalDescription = "Burmese Cat Breed, female weighing 7 pounds, creamy honey fading into ashy brown coat, with deep yellow eyes. Litter box trained.";
+           animalPersonalityDescription = "Warm, loving personality, that craves human attention. Enjoys playing, climbing and whizzing by at warp speed.";
+           animalNickname = "Mochi";
            break;
 
        default:
