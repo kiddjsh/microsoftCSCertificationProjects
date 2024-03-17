@@ -1,0 +1,15 @@
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/flowExecutionExercise/obj/Debug/net8.0/flowExecutionExercise.GeneratedMSBuildEditorConfig.editorconfig
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/flowExecutionExercise/obj/Debug/net8.0/flowExecutionExercise.AssemblyInfoInputs.cache
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/flowExecutionExercise/obj/Debug/net8.0/flowExecutionExercise.AssemblyInfo.cs
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/flowExecutionExercise/obj/Debug/net8.0/flowExecutionExercise.csproj.CoreCompileInputs.cache
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/flowExecutionExercise/obj/Debug/net8.0/flowExecutionExercise.sourcelink.json
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/flowExecutionExercise/bin/Debug/net8.0/flowExecutionExercise
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/flowExecutionExercise/bin/Debug/net8.0/flowExecutionExercise.deps.json
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/flowExecutionExercise/bin/Debug/net8.0/flowExecutionExercise.runtimeconfig.json
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/flowExecutionExercise/bin/Debug/net8.0/flowExecutionExercise.dll
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/flowExecutionExercise/bin/Debug/net8.0/flowExecutionExercise.pdb
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/flowExecutionExercise/obj/Debug/net8.0/flowExecutionExercise.dll
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/flowExecutionExercise/obj/Debug/net8.0/refint/flowExecutionExercise.dll
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/flowExecutionExercise/obj/Debug/net8.0/flowExecutionExercise.pdb
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/flowExecutionExercise/obj/Debug/net8.0/flowExecutionExercise.genruntimeconfig.cache
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/flowExecutionExercise/obj/Debug/net8.0/ref/flowExecutionExercise.dll
