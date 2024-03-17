@@ -1,0 +1,15 @@
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/foodNutritionApplication/bin/Debug/net8.0/foodNutritionApplication
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/foodNutritionApplication/bin/Debug/net8.0/foodNutritionApplication.deps.json
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/foodNutritionApplication/bin/Debug/net8.0/foodNutritionApplication.runtimeconfig.json
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/foodNutritionApplication/bin/Debug/net8.0/foodNutritionApplication.dll
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/foodNutritionApplication/bin/Debug/net8.0/foodNutritionApplication.pdb
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/foodNutritionApplication/obj/Debug/net8.0/foodNutritionApplication.GeneratedMSBuildEditorConfig.editorconfig
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/foodNutritionApplication/obj/Debug/net8.0/foodNutritionApplication.AssemblyInfoInputs.cache
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/foodNutritionApplication/obj/Debug/net8.0/foodNutritionApplication.AssemblyInfo.cs
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/foodNutritionApplication/obj/Debug/net8.0/foodNutritionApplication.csproj.CoreCompileInputs.cache
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/foodNutritionApplication/obj/Debug/net8.0/foodNutritionApplication.sourcelink.json
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/foodNutritionApplication/obj/Debug/net8.0/foodNutritionApplication.dll
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/foodNutritionApplication/obj/Debug/net8.0/refint/foodNutritionApplication.dll
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/foodNutritionApplication/obj/Debug/net8.0/foodNutritionApplication.pdb
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/foodNutritionApplication/obj/Debug/net8.0/foodNutritionApplication.genruntimeconfig.cache
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/foodNutritionApplication/obj/Debug/net8.0/ref/foodNutritionApplication.dll
