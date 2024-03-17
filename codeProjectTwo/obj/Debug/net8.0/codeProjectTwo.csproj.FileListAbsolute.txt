@@ -1,0 +1,15 @@
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/codeProjectTwo/bin/Debug/net8.0/codeProjectTwo
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/codeProjectTwo/bin/Debug/net8.0/codeProjectTwo.deps.json
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/codeProjectTwo/bin/Debug/net8.0/codeProjectTwo.runtimeconfig.json
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/codeProjectTwo/bin/Debug/net8.0/codeProjectTwo.dll
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/codeProjectTwo/bin/Debug/net8.0/codeProjectTwo.pdb
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/codeProjectTwo/obj/Debug/net8.0/codeProjectTwo.GeneratedMSBuildEditorConfig.editorconfig
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/codeProjectTwo/obj/Debug/net8.0/codeProjectTwo.AssemblyInfoInputs.cache
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/codeProjectTwo/obj/Debug/net8.0/codeProjectTwo.AssemblyInfo.cs
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/codeProjectTwo/obj/Debug/net8.0/codeProjectTwo.csproj.CoreCompileInputs.cache
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/codeProjectTwo/obj/Debug/net8.0/codeProjectTwo.sourcelink.json
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/codeProjectTwo/obj/Debug/net8.0/codeProjectTwo.dll
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/codeProjectTwo/obj/Debug/net8.0/refint/codeProjectTwo.dll
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/codeProjectTwo/obj/Debug/net8.0/codeProjectTwo.pdb
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/codeProjectTwo/obj/Debug/net8.0/codeProjectTwo.genruntimeconfig.cache
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/codeProjectTwo/obj/Debug/net8.0/ref/codeProjectTwo.dll
