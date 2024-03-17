@@ -41,22 +41,22 @@ for (int i = 0; i < maxPets; i++)
            animalSpecies = "dog";
            animalID = "d1";
            animalAge = "2";
-           animalPhysicalDescription = "medium sized cream colored female golden retriever weighing about 65 pounds. housebroken.";
-           animalPersonalityDescription = "loves to have her belly rubbed and likes to chase her tail. gives lots of kisses.";
-           animalNickname = "lola";
+           animalPhysicalDescription = "Weimaraner Dog Breed, female 25 inches at shoulder, weighing 55 pounds, grey short smoothe coat, with blue-gray eyes. Housetrained.";
+           animalPersonalityDescription = "Energetic, playful, protective, who loves children. Enjoys playing tug-of-war, and relaxing on the couch.";
+           animalNickname = "Mara";
            break;
 
        case 1:
            animalSpecies = "dog";
            animalID = "d2";
-           animalAge = "9";
-           animalPhysicalDescription = "large reddish-brown male golden retriever weighing about 85 pounds. housebroken.";
-           animalPersonalityDescription = "loves to have his ears rubbed when he greets you at the door, or at any time! loves to lean-in and give doggy hugs.";
+           animalAge = "5";
+           animalPhysicalDescription = "Norwegian Elkhound Dog Breed, male 20 inches at shweighing 75 pounds, with a lush silver-gray and black coat, and dark brown eyes. Housetrained.";
+           animalPersonalityDescription = "Warm, enthusiastic, family oriented personality. Enjoys playing, and meeting new people.";
            animalNickname = "loki";
            break;
 
        case 2:
-           animalSpecies = "Balinese Cat Breed";
+           animalSpecies = "cat";
            animalID = "c3";
            animalAge = "1";
            animalPhysicalDescription = "Balinese Cat Breed, female weighing 8 pounds, cream chocolate point medium long coat, with sapphire blue eyes. Litter box trained.";
@@ -65,7 +65,7 @@ for (int i = 0; i < maxPets; i++)
            break;
 
        case 3:
-           animalSpecies = "Tonkinese Cat Breed";
+           animalSpecies = "cat";
            animalID = "c4";
            animalAge = "3";
            animalPhysicalDescription = "Tonkinese Cat Breed, male weighing 10 pounds, champagne mink fine silky coat. Litter box trained.";
@@ -74,7 +74,7 @@ for (int i = 0; i < maxPets; i++)
            break;
 
         case 4:
-           animalSpecies = "Burmese Cat Bre";
+           animalSpecies = "cat";
            animalID = "c5";
            animalAge = "2";
            animalPhysicalDescription = "Burmese Cat Breed, female weighing 7 pounds, creamy honey fading into ashy brown coat, with deep yellow eyes. Litter box trained.";
