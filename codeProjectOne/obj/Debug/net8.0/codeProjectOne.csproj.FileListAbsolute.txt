@@ -1,0 +1,15 @@
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/codeProjectOne/bin/Debug/net8.0/codeProjectOne
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/codeProjectOne/bin/Debug/net8.0/codeProjectOne.deps.json
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/codeProjectOne/bin/Debug/net8.0/codeProjectOne.runtimeconfig.json
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/codeProjectOne/bin/Debug/net8.0/codeProjectOne.dll
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/codeProjectOne/bin/Debug/net8.0/codeProjectOne.pdb
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/codeProjectOne/obj/Debug/net8.0/codeProjectOne.GeneratedMSBuildEditorConfig.editorconfig
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/codeProjectOne/obj/Debug/net8.0/codeProjectOne.AssemblyInfoInputs.cache
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/codeProjectOne/obj/Debug/net8.0/codeProjectOne.AssemblyInfo.cs
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/codeProjectOne/obj/Debug/net8.0/codeProjectOne.csproj.CoreCompileInputs.cache
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/codeProjectOne/obj/Debug/net8.0/codeProjectOne.sourcelink.json
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/codeProjectOne/obj/Debug/net8.0/codeProjectOne.dll
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/codeProjectOne/obj/Debug/net8.0/refint/codeProjectOne.dll
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/codeProjectOne/obj/Debug/net8.0/codeProjectOne.pdb
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/codeProjectOne/obj/Debug/net8.0/codeProjectOne.genruntimeconfig.cache
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/codeProjectOne/obj/Debug/net8.0/ref/codeProjectOne.dll
