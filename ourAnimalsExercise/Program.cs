@@ -41,7 +41,7 @@ for (int i = 0; i < maxPets; i++)
            animalSpecies = "dog";
            animalID = "d1";
            animalAge = "2";
-           animalPhysicalDescription = "Weimaraner Dog Breed, female 25 inches at shoulder, weighing 55 pounds, grey short smoothe coat, with blue-gray eyes. Housetrained.";
+           animalPhysicalDescription = "Weimaraner Dog Breed, female 25 inches at shoulder, weighing 55 pounds, grey short smooth coat, with blue-gray eyes. Housetrained.";
            animalPersonalityDescription = "Energetic, playful, protective, who loves children. Enjoys playing tug-of-war, and relaxing on the couch.";
            animalNickname = "Mara";
            break;
@@ -50,7 +50,7 @@ for (int i = 0; i < maxPets; i++)
            animalSpecies = "dog";
            animalID = "d2";
            animalAge = "5";
-           animalPhysicalDescription = "Norwegian Elkhound Dog Breed, male 20 inches at shweighing 75 pounds, with a lush silver-gray and black coat, and dark brown eyes. Housetrained.";
+           animalPhysicalDescription = "Norwegian Elkhound Dog Breed, male 20 inches at weighing 75 pounds, with a lush silver-gray and black coat, and dark brown eyes. Housetrained.";
            animalPersonalityDescription = "Warm, enthusiastic, family oriented personality. Enjoys playing, and meeting new people.";
            animalNickname = "loki";
            break;
