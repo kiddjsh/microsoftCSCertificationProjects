@@ -1,0 +1,15 @@
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/skuEvaluationApplicationChallenge/bin/Debug/net8.0/skuEvaluationApplicationChallenge
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/skuEvaluationApplicationChallenge/bin/Debug/net8.0/skuEvaluationApplicationChallenge.deps.json
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/skuEvaluationApplicationChallenge/bin/Debug/net8.0/skuEvaluationApplicationChallenge.runtimeconfig.json
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/skuEvaluationApplicationChallenge/bin/Debug/net8.0/skuEvaluationApplicationChallenge.dll
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/skuEvaluationApplicationChallenge/bin/Debug/net8.0/skuEvaluationApplicationChallenge.pdb
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/skuEvaluationApplicationChallenge/obj/Debug/net8.0/skuEvaluationApplicationChallenge.GeneratedMSBuildEditorConfig.editorconfig
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/skuEvaluationApplicationChallenge/obj/Debug/net8.0/skuEvaluationApplicationChallenge.AssemblyInfoInputs.cache
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/skuEvaluationApplicationChallenge/obj/Debug/net8.0/skuEvaluationApplicationChallenge.AssemblyInfo.cs
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/skuEvaluationApplicationChallenge/obj/Debug/net8.0/skuEvaluationApplicationChallenge.csproj.CoreCompileInputs.cache
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/skuEvaluationApplicationChallenge/obj/Debug/net8.0/skuEvaluationApplicationChallenge.sourcelink.json
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/skuEvaluationApplicationChallenge/obj/Debug/net8.0/skuEvaluationApplicationChallenge.dll
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/skuEvaluationApplicationChallenge/obj/Debug/net8.0/refint/skuEvaluationApplicationChallenge.dll
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/skuEvaluationApplicationChallenge/obj/Debug/net8.0/skuEvaluationApplicationChallenge.pdb
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/skuEvaluationApplicationChallenge/obj/Debug/net8.0/skuEvaluationApplicationChallenge.genruntimeconfig.cache
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/skuEvaluationApplicationChallenge/obj/Debug/net8.0/ref/skuEvaluationApplicationChallenge.dll
