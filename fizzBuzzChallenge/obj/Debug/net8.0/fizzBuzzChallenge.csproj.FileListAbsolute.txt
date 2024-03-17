@@ -1,0 +1,15 @@
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/fizzBuzzChallenge/bin/Debug/net8.0/fizzBuzzChallenge
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/fizzBuzzChallenge/bin/Debug/net8.0/fizzBuzzChallenge.deps.json
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/fizzBuzzChallenge/bin/Debug/net8.0/fizzBuzzChallenge.runtimeconfig.json
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/fizzBuzzChallenge/bin/Debug/net8.0/fizzBuzzChallenge.dll
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/fizzBuzzChallenge/bin/Debug/net8.0/fizzBuzzChallenge.pdb
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/fizzBuzzChallenge/obj/Debug/net8.0/fizzBuzzChallenge.GeneratedMSBuildEditorConfig.editorconfig
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/fizzBuzzChallenge/obj/Debug/net8.0/fizzBuzzChallenge.AssemblyInfoInputs.cache
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/fizzBuzzChallenge/obj/Debug/net8.0/fizzBuzzChallenge.AssemblyInfo.cs
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/fizzBuzzChallenge/obj/Debug/net8.0/fizzBuzzChallenge.csproj.CoreCompileInputs.cache
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/fizzBuzzChallenge/obj/Debug/net8.0/fizzBuzzChallenge.sourcelink.json
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/fizzBuzzChallenge/obj/Debug/net8.0/fizzBuzzChallenge.dll
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/fizzBuzzChallenge/obj/Debug/net8.0/refint/fizzBuzzChallenge.dll
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/fizzBuzzChallenge/obj/Debug/net8.0/fizzBuzzChallenge.pdb
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/fizzBuzzChallenge/obj/Debug/net8.0/fizzBuzzChallenge.genruntimeconfig.cache
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/fizzBuzzChallenge/obj/Debug/net8.0/ref/fizzBuzzChallenge.dll
