@@ -56,7 +56,7 @@ for (int i = 0; i < maxPets; i++)
            break;
 
        case 2:
-           animalSpecies = "cat";
+           animalSpecies = "Balinese Cat Breed";
            animalID = "c3";
            animalAge = "1";
            animalPhysicalDescription = "Balinese Cat Breed, female weighing 8 pounds, cream chocolate point medium long coat, with sapphire blue eyes. Litter box trained.";
@@ -65,7 +65,7 @@ for (int i = 0; i < maxPets; i++)
            break;
 
        case 3:
-           animalSpecies = "cat";
+           animalSpecies = "Tonkinese Cat Breed";
            animalID = "c4";
            animalAge = "3";
            animalPhysicalDescription = "Tonkinese Cat Breed, male weighing 10 pounds, champagne mink fine silky coat. Litter box trained.";
@@ -74,7 +74,7 @@ for (int i = 0; i < maxPets; i++)
            break;
 
         case 4:
-           animalSpecies = "cat";
+           animalSpecies = "Burmese Cat Bre";
            animalID = "c5";
            animalAge = "2";
            animalPhysicalDescription = "Burmese Cat Breed, female weighing 7 pounds, creamy honey fading into ashy brown coat, with deep yellow eyes. Litter box trained.";
