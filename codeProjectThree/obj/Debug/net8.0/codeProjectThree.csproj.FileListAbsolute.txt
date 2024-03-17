@@ -1,0 +1,15 @@
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/codeProjectThree/bin/Debug/net8.0/codeProjectThree
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/codeProjectThree/bin/Debug/net8.0/codeProjectThree.deps.json
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/codeProjectThree/bin/Debug/net8.0/codeProjectThree.runtimeconfig.json
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/codeProjectThree/bin/Debug/net8.0/codeProjectThree.dll
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/codeProjectThree/bin/Debug/net8.0/codeProjectThree.pdb
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/codeProjectThree/obj/Debug/net8.0/codeProjectThree.GeneratedMSBuildEditorConfig.editorconfig
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/codeProjectThree/obj/Debug/net8.0/codeProjectThree.AssemblyInfoInputs.cache
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/codeProjectThree/obj/Debug/net8.0/codeProjectThree.AssemblyInfo.cs
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/codeProjectThree/obj/Debug/net8.0/codeProjectThree.csproj.CoreCompileInputs.cache
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/codeProjectThree/obj/Debug/net8.0/codeProjectThree.sourcelink.json
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/codeProjectThree/obj/Debug/net8.0/codeProjectThree.dll
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/codeProjectThree/obj/Debug/net8.0/refint/codeProjectThree.dll
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/codeProjectThree/obj/Debug/net8.0/codeProjectThree.pdb
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/codeProjectThree/obj/Debug/net8.0/codeProjectThree.genruntimeconfig.cache
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/codeProjectThree/obj/Debug/net8.0/ref/codeProjectThree.dll
