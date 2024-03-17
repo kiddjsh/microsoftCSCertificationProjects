@@ -1,0 +1,15 @@
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/doIleExercise/bin/Debug/net8.0/doIleExercise
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/doIleExercise/bin/Debug/net8.0/doIleExercise.deps.json
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/doIleExercise/bin/Debug/net8.0/doIleExercise.runtimeconfig.json
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/doIleExercise/bin/Debug/net8.0/doIleExercise.dll
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/doIleExercise/bin/Debug/net8.0/doIleExercise.pdb
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/doIleExercise/obj/Debug/net8.0/doIleExercise.GeneratedMSBuildEditorConfig.editorconfig
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/doIleExercise/obj/Debug/net8.0/doIleExercise.AssemblyInfoInputs.cache
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/doIleExercise/obj/Debug/net8.0/doIleExercise.AssemblyInfo.cs
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/doIleExercise/obj/Debug/net8.0/doIleExercise.csproj.CoreCompileInputs.cache
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/doIleExercise/obj/Debug/net8.0/doIleExercise.sourcelink.json
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/doIleExercise/obj/Debug/net8.0/doIleExercise.dll
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/doIleExercise/obj/Debug/net8.0/refint/doIleExercise.dll
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/doIleExercise/obj/Debug/net8.0/doIleExercise.pdb
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/doIleExercise/obj/Debug/net8.0/doIleExercise.genruntimeconfig.cache
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/doIleExercise/obj/Debug/net8.0/ref/doIleExercise.dll
