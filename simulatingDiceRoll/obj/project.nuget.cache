@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LlVHCW5WcHWkiq6OaiRFnk9S3miUYfALdI97NwWj2oQmLrfGeZGIMNGhG+rcK9TSw9uAa2iVCD+32du/a7i42g==",
+  "dgSpecHash": "kTrD260u6PBVEuF+cEE4yp6V49Y8+VJb2czdCj7Th5VzNEKPL8y1hza1KZxtEU529uobd47dvaZqql07xg7gXg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\KidderJoshua\\Documents\\Visual Studio Code\\Repositories\\microsoftCSCertificationProjects\\simulatingDiceRoll\\simulatingDiceRoll.csproj",
+  "projectFilePath": "/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/simulatingDiceRoll/simulatingDiceRoll.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

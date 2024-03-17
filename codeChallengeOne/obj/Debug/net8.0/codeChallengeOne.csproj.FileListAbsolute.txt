@@ -1,14 +1,29 @@
-C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\Microsoft C# Certification Projects\codeChallengeOne\bin\Debug\net8.0\codeChallengeOne.exe
-C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\Microsoft C# Certification Projects\codeChallengeOne\bin\Debug\net8.0\codeChallengeOne.deps.json
-C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\Microsoft C# Certification Projects\codeChallengeOne\bin\Debug\net8.0\codeChallengeOne.runtimeconfig.json
-C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\Microsoft C# Certification Projects\codeChallengeOne\bin\Debug\net8.0\codeChallengeOne.dll
-C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\Microsoft C# Certification Projects\codeChallengeOne\bin\Debug\net8.0\codeChallengeOne.pdb
-C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\Microsoft C# Certification Projects\codeChallengeOne\obj\Debug\net8.0\codeChallengeOne.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\Microsoft C# Certification Projects\codeChallengeOne\obj\Debug\net8.0\codeChallengeOne.AssemblyInfoInputs.cache
-C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\Microsoft C# Certification Projects\codeChallengeOne\obj\Debug\net8.0\codeChallengeOne.AssemblyInfo.cs
-C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\Microsoft C# Certification Projects\codeChallengeOne\obj\Debug\net8.0\codeChallengeOne.csproj.CoreCompileInputs.cache
-C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\Microsoft C# Certification Projects\codeChallengeOne\obj\Debug\net8.0\codeChallengeOne.dll
-C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\Microsoft C# Certification Projects\codeChallengeOne\obj\Debug\net8.0\refint\codeChallengeOne.dll
-C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\Microsoft C# Certification Projects\codeChallengeOne\obj\Debug\net8.0\codeChallengeOne.pdb
-C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\Microsoft C# Certification Projects\codeChallengeOne\obj\Debug\net8.0\codeChallengeOne.genruntimeconfig.cache
-C:\Users\KidderJoshua\Documents\Visual Studio Code\Repositories\Microsoft C# Certification Projects\codeChallengeOne\obj\Debug\net8.0\ref\codeChallengeOne.dll
+C:/Users/KidderJoshua/Documents/Visual Studio Code/Repositories/Microsoft C# Certification Projects/codeChallengeOne/bin/Debug/net8.0/codeChallengeOne.exe
+C:/Users/KidderJoshua/Documents/Visual Studio Code/Repositories/Microsoft C# Certification Projects/codeChallengeOne/bin/Debug/net8.0/codeChallengeOne.deps.json
+C:/Users/KidderJoshua/Documents/Visual Studio Code/Repositories/Microsoft C# Certification Projects/codeChallengeOne/bin/Debug/net8.0/codeChallengeOne.runtimeconfig.json
+C:/Users/KidderJoshua/Documents/Visual Studio Code/Repositories/Microsoft C# Certification Projects/codeChallengeOne/bin/Debug/net8.0/codeChallengeOne.dll
+C:/Users/KidderJoshua/Documents/Visual Studio Code/Repositories/Microsoft C# Certification Projects/codeChallengeOne/bin/Debug/net8.0/codeChallengeOne.pdb
+C:/Users/KidderJoshua/Documents/Visual Studio Code/Repositories/Microsoft C# Certification Projects/codeChallengeOne/obj/Debug/net8.0/codeChallengeOne.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/KidderJoshua/Documents/Visual Studio Code/Repositories/Microsoft C# Certification Projects/codeChallengeOne/obj/Debug/net8.0/codeChallengeOne.AssemblyInfoInputs.cache
+C:/Users/KidderJoshua/Documents/Visual Studio Code/Repositories/Microsoft C# Certification Projects/codeChallengeOne/obj/Debug/net8.0/codeChallengeOne.AssemblyInfo.cs
+C:/Users/KidderJoshua/Documents/Visual Studio Code/Repositories/Microsoft C# Certification Projects/codeChallengeOne/obj/Debug/net8.0/codeChallengeOne.csproj.CoreCompileInputs.cache
+C:/Users/KidderJoshua/Documents/Visual Studio Code/Repositories/Microsoft C# Certification Projects/codeChallengeOne/obj/Debug/net8.0/codeChallengeOne.dll
+C:/Users/KidderJoshua/Documents/Visual Studio Code/Repositories/Microsoft C# Certification Projects/codeChallengeOne/obj/Debug/net8.0/refint/codeChallengeOne.dll
+C:/Users/KidderJoshua/Documents/Visual Studio Code/Repositories/Microsoft C# Certification Projects/codeChallengeOne/obj/Debug/net8.0/codeChallengeOne.pdb
+C:/Users/KidderJoshua/Documents/Visual Studio Code/Repositories/Microsoft C# Certification Projects/codeChallengeOne/obj/Debug/net8.0/codeChallengeOne.genruntimeconfig.cache
+C:/Users/KidderJoshua/Documents/Visual Studio Code/Repositories/Microsoft C# Certification Projects/codeChallengeOne/obj/Debug/net8.0/ref/codeChallengeOne.dll
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/codeChallengeOne/bin/Debug/net8.0/codeChallengeOne
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/codeChallengeOne/bin/Debug/net8.0/codeChallengeOne.deps.json
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/codeChallengeOne/bin/Debug/net8.0/codeChallengeOne.runtimeconfig.json
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/codeChallengeOne/bin/Debug/net8.0/codeChallengeOne.dll
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/codeChallengeOne/bin/Debug/net8.0/codeChallengeOne.pdb
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/codeChallengeOne/obj/Debug/net8.0/codeChallengeOne.GeneratedMSBuildEditorConfig.editorconfig
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/codeChallengeOne/obj/Debug/net8.0/codeChallengeOne.AssemblyInfoInputs.cache
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/codeChallengeOne/obj/Debug/net8.0/codeChallengeOne.AssemblyInfo.cs
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/codeChallengeOne/obj/Debug/net8.0/codeChallengeOne.csproj.CoreCompileInputs.cache
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/codeChallengeOne/obj/Debug/net8.0/codeChallengeOne.sourcelink.json
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/codeChallengeOne/obj/Debug/net8.0/codeChallengeOne.dll
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/codeChallengeOne/obj/Debug/net8.0/refint/codeChallengeOne.dll
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/codeChallengeOne/obj/Debug/net8.0/codeChallengeOne.pdb
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/codeChallengeOne/obj/Debug/net8.0/codeChallengeOne.genruntimeconfig.cache
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/codeChallengeOne/obj/Debug/net8.0/ref/codeChallengeOne.dll

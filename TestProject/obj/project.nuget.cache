@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "b5S7ML0Jb+qygrabRTH3MARavuYX1nuZx5dL5QQr/61IX8v5oz2l+AEaZuXaFo7+0tPDNsV2MKE8kLnE3uKALA==",
+  "dgSpecHash": "BTsbS938D7huufqBiNDT5oQiMhUwNJ/g+xy90VALBdmlo1Fu4xUc0GZj0uDb/ok1R2Lx7gejmtPPGQDImc6jzQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\KidderJoshua\\Documents\\Visual Studio Code\\Repositories\\microsoftCSCertificationProjects\\TestProject\\TestProject.csproj",
+  "projectFilePath": "/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/TestProject/TestProject.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
