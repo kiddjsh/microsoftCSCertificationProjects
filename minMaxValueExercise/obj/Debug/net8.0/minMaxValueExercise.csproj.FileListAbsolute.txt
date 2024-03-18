@@ -1,0 +1,15 @@
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/minMaxValueExercise/bin/Debug/net8.0/minMaxValueExercise
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/minMaxValueExercise/bin/Debug/net8.0/minMaxValueExercise.deps.json
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/minMaxValueExercise/bin/Debug/net8.0/minMaxValueExercise.runtimeconfig.json
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/minMaxValueExercise/bin/Debug/net8.0/minMaxValueExercise.dll
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/minMaxValueExercise/bin/Debug/net8.0/minMaxValueExercise.pdb
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/minMaxValueExercise/obj/Debug/net8.0/minMaxValueExercise.GeneratedMSBuildEditorConfig.editorconfig
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/minMaxValueExercise/obj/Debug/net8.0/minMaxValueExercise.AssemblyInfoInputs.cache
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/minMaxValueExercise/obj/Debug/net8.0/minMaxValueExercise.AssemblyInfo.cs
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/minMaxValueExercise/obj/Debug/net8.0/minMaxValueExercise.csproj.CoreCompileInputs.cache
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/minMaxValueExercise/obj/Debug/net8.0/minMaxValueExercise.sourcelink.json
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/minMaxValueExercise/obj/Debug/net8.0/minMaxValueExercise.dll
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/minMaxValueExercise/obj/Debug/net8.0/refint/minMaxValueExercise.dll
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/minMaxValueExercise/obj/Debug/net8.0/minMaxValueExercise.pdb
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/minMaxValueExercise/obj/Debug/net8.0/minMaxValueExercise.genruntimeconfig.cache
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/minMaxValueExercise/obj/Debug/net8.0/ref/minMaxValueExercise.dll
