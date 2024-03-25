@@ -1,0 +1,15 @@
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/rsvpEventExercise/bin/Debug/net8.0/rsvpEventExercise
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/rsvpEventExercise/bin/Debug/net8.0/rsvpEventExercise.deps.json
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/rsvpEventExercise/bin/Debug/net8.0/rsvpEventExercise.runtimeconfig.json
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/rsvpEventExercise/bin/Debug/net8.0/rsvpEventExercise.dll
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/rsvpEventExercise/bin/Debug/net8.0/rsvpEventExercise.pdb
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/rsvpEventExercise/obj/Debug/net8.0/rsvpEventExercise.GeneratedMSBuildEditorConfig.editorconfig
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/rsvpEventExercise/obj/Debug/net8.0/rsvpEventExercise.AssemblyInfoInputs.cache
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/rsvpEventExercise/obj/Debug/net8.0/rsvpEventExercise.AssemblyInfo.cs
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/rsvpEventExercise/obj/Debug/net8.0/rsvpEventExercise.csproj.CoreCompileInputs.cache
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/rsvpEventExercise/obj/Debug/net8.0/rsvpEventExercise.sourcelink.json
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/rsvpEventExercise/obj/Debug/net8.0/rsvpEventExercise.dll
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/rsvpEventExercise/obj/Debug/net8.0/refint/rsvpEventExercise.dll
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/rsvpEventExercise/obj/Debug/net8.0/rsvpEventExercise.pdb
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/rsvpEventExercise/obj/Debug/net8.0/rsvpEventExercise.genruntimeconfig.cache
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/rsvpEventExercise/obj/Debug/net8.0/ref/rsvpEventExercise.dll
