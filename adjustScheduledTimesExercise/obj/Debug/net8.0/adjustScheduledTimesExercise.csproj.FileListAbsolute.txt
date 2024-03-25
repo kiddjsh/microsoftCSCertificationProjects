@@ -1,0 +1,15 @@
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/adjustScheduledTimesExercise/obj/Debug/net8.0/adjustScheduledTimesExercise.GeneratedMSBuildEditorConfig.editorconfig
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/adjustScheduledTimesExercise/obj/Debug/net8.0/adjustScheduledTimesExercise.AssemblyInfoInputs.cache
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/adjustScheduledTimesExercise/obj/Debug/net8.0/adjustScheduledTimesExercise.AssemblyInfo.cs
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/adjustScheduledTimesExercise/obj/Debug/net8.0/adjustScheduledTimesExercise.csproj.CoreCompileInputs.cache
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/adjustScheduledTimesExercise/obj/Debug/net8.0/adjustScheduledTimesExercise.sourcelink.json
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/adjustScheduledTimesExercise/bin/Debug/net8.0/adjustScheduledTimesExercise
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/adjustScheduledTimesExercise/bin/Debug/net8.0/adjustScheduledTimesExercise.deps.json
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/adjustScheduledTimesExercise/bin/Debug/net8.0/adjustScheduledTimesExercise.runtimeconfig.json
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/adjustScheduledTimesExercise/bin/Debug/net8.0/adjustScheduledTimesExercise.dll
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/adjustScheduledTimesExercise/bin/Debug/net8.0/adjustScheduledTimesExercise.pdb
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/adjustScheduledTimesExercise/obj/Debug/net8.0/adjustScheduledTimesExercise.dll
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/adjustScheduledTimesExercise/obj/Debug/net8.0/refint/adjustScheduledTimesExercise.dll
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/adjustScheduledTimesExercise/obj/Debug/net8.0/adjustScheduledTimesExercise.pdb
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/adjustScheduledTimesExercise/obj/Debug/net8.0/adjustScheduledTimesExercise.genruntimeconfig.cache
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/adjustScheduledTimesExercise/obj/Debug/net8.0/ref/adjustScheduledTimesExercise.dll
