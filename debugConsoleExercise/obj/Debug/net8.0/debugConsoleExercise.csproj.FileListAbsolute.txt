@@ -1,0 +1,15 @@
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/debugConsoleExercise/bin/Debug/net8.0/debugConsoleExercise
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/debugConsoleExercise/bin/Debug/net8.0/debugConsoleExercise.deps.json
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/debugConsoleExercise/bin/Debug/net8.0/debugConsoleExercise.runtimeconfig.json
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/debugConsoleExercise/bin/Debug/net8.0/debugConsoleExercise.dll
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/debugConsoleExercise/bin/Debug/net8.0/debugConsoleExercise.pdb
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/debugConsoleExercise/obj/Debug/net8.0/debugConsoleExercise.GeneratedMSBuildEditorConfig.editorconfig
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/debugConsoleExercise/obj/Debug/net8.0/debugConsoleExercise.AssemblyInfoInputs.cache
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/debugConsoleExercise/obj/Debug/net8.0/debugConsoleExercise.AssemblyInfo.cs
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/debugConsoleExercise/obj/Debug/net8.0/debugConsoleExercise.csproj.CoreCompileInputs.cache
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/debugConsoleExercise/obj/Debug/net8.0/debugConsoleExercise.sourcelink.json
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/debugConsoleExercise/obj/Debug/net8.0/debugConsoleExercise.dll
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/debugConsoleExercise/obj/Debug/net8.0/refint/debugConsoleExercise.dll
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/debugConsoleExercise/obj/Debug/net8.0/debugConsoleExercise.pdb
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/debugConsoleExercise/obj/Debug/net8.0/debugConsoleExercise.genruntimeconfig.cache
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/debugConsoleExercise/obj/Debug/net8.0/ref/debugConsoleExercise.dll
