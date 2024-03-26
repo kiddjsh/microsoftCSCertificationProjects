@@ -1,0 +1,15 @@
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/palindromeWordExercise/bin/Debug/net8.0/palindromeWordExercise
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/palindromeWordExercise/bin/Debug/net8.0/palindromeWordExercise.deps.json
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/palindromeWordExercise/bin/Debug/net8.0/palindromeWordExercise.runtimeconfig.json
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/palindromeWordExercise/bin/Debug/net8.0/palindromeWordExercise.dll
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/palindromeWordExercise/bin/Debug/net8.0/palindromeWordExercise.pdb
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/palindromeWordExercise/obj/Debug/net8.0/palindromeWordExercise.GeneratedMSBuildEditorConfig.editorconfig
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/palindromeWordExercise/obj/Debug/net8.0/palindromeWordExercise.AssemblyInfoInputs.cache
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/palindromeWordExercise/obj/Debug/net8.0/palindromeWordExercise.AssemblyInfo.cs
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/palindromeWordExercise/obj/Debug/net8.0/palindromeWordExercise.csproj.CoreCompileInputs.cache
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/palindromeWordExercise/obj/Debug/net8.0/palindromeWordExercise.sourcelink.json
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/palindromeWordExercise/obj/Debug/net8.0/palindromeWordExercise.dll
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/palindromeWordExercise/obj/Debug/net8.0/refint/palindromeWordExercise.dll
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/palindromeWordExercise/obj/Debug/net8.0/palindromeWordExercise.pdb
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/palindromeWordExercise/obj/Debug/net8.0/palindromeWordExercise.genruntimeconfig.cache
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/palindromeWordExercise/obj/Debug/net8.0/ref/palindromeWordExercise.dll
