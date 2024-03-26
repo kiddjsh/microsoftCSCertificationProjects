@@ -1,0 +1,15 @@
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/miniActionPlayerGameChallenge/bin/Debug/net8.0/miniActionPlayerGameChallenge
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/miniActionPlayerGameChallenge/bin/Debug/net8.0/miniActionPlayerGameChallenge.deps.json
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/miniActionPlayerGameChallenge/bin/Debug/net8.0/miniActionPlayerGameChallenge.runtimeconfig.json
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/miniActionPlayerGameChallenge/bin/Debug/net8.0/miniActionPlayerGameChallenge.dll
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/miniActionPlayerGameChallenge/bin/Debug/net8.0/miniActionPlayerGameChallenge.pdb
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/miniActionPlayerGameChallenge/obj/Debug/net8.0/miniActionPlayerGameChallenge.GeneratedMSBuildEditorConfig.editorconfig
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/miniActionPlayerGameChallenge/obj/Debug/net8.0/miniActionPlayerGameChallenge.AssemblyInfoInputs.cache
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/miniActionPlayerGameChallenge/obj/Debug/net8.0/miniActionPlayerGameChallenge.AssemblyInfo.cs
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/miniActionPlayerGameChallenge/obj/Debug/net8.0/miniActionPlayerGameChallenge.csproj.CoreCompileInputs.cache
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/miniActionPlayerGameChallenge/obj/Debug/net8.0/miniActionPlayerGameChallenge.sourcelink.json
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/miniActionPlayerGameChallenge/obj/Debug/net8.0/miniActionPlayerGameChallenge.dll
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/miniActionPlayerGameChallenge/obj/Debug/net8.0/refint/miniActionPlayerGameChallenge.dll
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/miniActionPlayerGameChallenge/obj/Debug/net8.0/miniActionPlayerGameChallenge.pdb
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/miniActionPlayerGameChallenge/obj/Debug/net8.0/miniActionPlayerGameChallenge.genruntimeconfig.cache
+/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/miniActionPlayerGameChallenge/obj/Debug/net8.0/ref/miniActionPlayerGameChallenge.dll
