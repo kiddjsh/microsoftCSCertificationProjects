@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/catchSpecificExceptionsChallenge/catchSpecificExceptionsChallenge.csproj": {}
+  },
+  "projects": {
+    "/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/catchSpecificExceptionsChallenge/catchSpecificExceptionsChallenge.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/catchSpecificExceptionsChallenge/catchSpecificExceptionsChallenge.csproj",
+        "projectName": "catchSpecificExceptionsChallenge",
+        "projectPath": "/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/catchSpecificExceptionsChallenge/catchSpecificExceptionsChallenge.csproj",
+        "packagesPath": "/home/eko/.nuget/packages/",
+        "outputPath": "/home/eko/Documents/Visual Studio Code/microsoftCSCertificationProjects/catchSpecificExceptionsChallenge/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/eko/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/eko/.dotnet/sdk/8.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
